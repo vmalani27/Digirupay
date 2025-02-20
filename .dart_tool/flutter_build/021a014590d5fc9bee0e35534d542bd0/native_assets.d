@@ -1,0 +1,1 @@
+ /home/rooster/Documents/The_gotHam_Project/college/odoo/minimalchat/.dart_tool/flutter_build/021a014590d5fc9bee0e35534d542bd0/native_assets.yaml: 

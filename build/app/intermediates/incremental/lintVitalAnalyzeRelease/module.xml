@@ -1,0 +1,18 @@
+<lint-module
+    format="1"
+    dir="/home/rooster/Documents/The_gotHam_Project/college/odoo/minimalchat/android/app"
+    name=":app"
+    type="APP"
+    maven="android:app:unspecified"
+    agpVersion="8.4.0"
+    buildFolder="/home/rooster/Documents/The_gotHam_Project/college/odoo/minimalchat/build/app"
+    bootClassPath="/home/rooster/Android/Sdk/platforms/android-35/android.jar:/home/rooster/Android/Sdk/build-tools/34.0.0/core-lambda-stubs.jar"
+    javaSourceLevel="1.8"
+    compileTarget="android-35">
+  <lintOptions
+      abortOnError="true"
+      absolutePaths="true"
+      checkReleaseBuilds="true"
+      explainIssues="true"/>
+  <variant name="release"/>
+</lint-module>

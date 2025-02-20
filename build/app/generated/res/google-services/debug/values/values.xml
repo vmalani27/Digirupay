@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="gcm_defaultSenderId" translatable="false">851461920948</string>
+    <string name="google_api_key" translatable="false">AIzaSyA6p-Aei0l204pq64nbAgo2xK0g7tURTGI</string>
+    <string name="google_app_id" translatable="false">1:851461920948:android:740290e8c1f47163fe9fe1</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyA6p-Aei0l204pq64nbAgo2xK0g7tURTGI</string>
+    <string name="google_storage_bucket" translatable="false">minimalchat-cca3f.firebasestorage.app</string>
+    <string name="project_id" translatable="false">minimalchat-cca3f</string>
+</resources>

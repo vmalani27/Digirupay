@@ -1,0 +1,37 @@
+<variant
+    name="release"
+    package="com.example.minimalchat"
+    minSdkVersion="23"
+    targetSdkVersion="35"
+    shrinking="true"
+    mergedManifest="/home/rooster/Documents/The_gotHam_Project/college/odoo/minimalchat/build/app/intermediates/merged_manifest/release/processReleaseMainManifest/AndroidManifest.xml"
+    manifestMergeReport="/home/rooster/Documents/The_gotHam_Project/college/odoo/minimalchat/build/app/outputs/logs/manifest-merger-release-report.txt"
+    proguardFiles="/home/rooster/Documents/The_gotHam_Project/college/odoo/minimalchat/build/app/intermediates/default_proguard_files/global/proguard-android-optimize.txt-8.4.0:/home/rooster/sdk/flutter/packages/flutter_tools/gradle/flutter_proguard_rules.pro:proguard-rules.pro"
+    partialResultsDir="/home/rooster/Documents/The_gotHam_Project/college/odoo/minimalchat/build/app/intermediates/lint_vital_partial_results/release/lintVitalAnalyzeRelease/out">
+  <buildFeatures
+      namespacing="REQUIRED"/>
+  <sourceProviders>
+    <sourceProvider
+        manifests="src/main/AndroidManifest.xml"
+        javaDirectories="src/main/java:src/release/java:src/main/kotlin:src/release/kotlin"
+        resDirectories="src/main/res:src/release/res"
+        assetsDirectories="src/main/assets:src/release/assets"/>
+  </sourceProviders>
+  <testSourceProviders>
+  </testSourceProviders>
+  <testFixturesSourceProviders>
+  </testFixturesSourceProviders>
+  <manifestPlaceholders>
+    <placeholder
+        name="applicationName"
+        value="android.app.Application" />
+  </manifestPlaceholders>
+  <artifact
+      classOutputs="/home/rooster/Documents/The_gotHam_Project/college/odoo/minimalchat/build/app/intermediates/javac/release/compileReleaseJavaWithJavac/classes:/home/rooster/Documents/The_gotHam_Project/college/odoo/minimalchat/build/app/tmp/kotlin-classes/release:/home/rooster/Documents/The_gotHam_Project/college/odoo/minimalchat/build/app/kotlinToolingMetadata:/home/rooster/Documents/The_gotHam_Project/college/odoo/minimalchat/build/app/intermediates/compile_and_runtime_not_namespaced_r_class_jar/release/processReleaseResources/R.jar"
+      type="MAIN"
+      applicationId="com.example.minimalchat"
+      generatedSourceFolders="/home/rooster/Documents/The_gotHam_Project/college/odoo/minimalchat/build/app/generated/ap_generated_sources/release/out"
+      generatedResourceFolders="/home/rooster/Documents/The_gotHam_Project/college/odoo/minimalchat/build/app/generated/res/google-services/release:/home/rooster/Documents/The_gotHam_Project/college/odoo/minimalchat/build/app/generated/res/resValues/release"
+      desugaredMethodsFiles="/home/rooster/.gradle/caches/8.12/transforms/1acce4157c8f3d93187d69d26f692d39/transformed/D8BackportedDesugaredMethods.txt">
+  </artifact>
+</variant>

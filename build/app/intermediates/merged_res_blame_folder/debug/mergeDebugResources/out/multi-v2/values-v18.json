@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.example.minimalchat.app-mergeDebugResources-36:/values-v18/values-v18.xml",
+            "map": [
+                {
+                    "source": "/home/rooster/.gradle/caches/8.12/transforms/572bd069a39db405ba17efe9cc4a46df/transformed/appcompat-1.2.0/res/values-v18/values-v18.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "48",
+                        "endOffsets": "99"
+                    }
+                }
+            ]
+        }
+    ]
+}
